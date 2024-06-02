@@ -2,6 +2,6 @@ name = "blogit"
 compatibility_date = "2023-12-01"
 
 [vars]
-DATABASE_URL="prisma://accelerate.prisma-data.net/?api_key=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcGlfa2V5IjoiZDEzYjNmZmItNzdiMS00OWEwLWE0YTctZDA1NDdjNTRhYmE5IiwidGVuYW50X2lkIjoiNzBjN2ExMDhlYzU5NThmMmEyMTkyOTk1NGRmZDIyYzgyYmQ2NGIzNzFhZDIwYWViNjI2OGI3NDU5ZGE1YzljNSIsImludGVybmFsX3NlY3JldCI6ImVkZmEwMDk1LTkxOGEtNDM4ZC1hNTY1LTUwNzFiYjQzYmVmOCJ9.v-_Psi-6pvqKxAQfxQW3KCWxzz8GpJZPfQzgxDHuKa4"
+DATABASE_URL=""
 
 JWT_SECRET="hehehe"
