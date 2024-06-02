@@ -1,0 +1,1 @@
+export const BACKEND_URL="https://blogit.maheswarreddyavula111.workers.dev"
